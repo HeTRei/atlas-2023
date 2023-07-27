@@ -1,0 +1,60 @@
+{
+	"id": 850,
+	"name": "3rd Assault Brigade \"Azov\" (Ukraine)",
+	"description": "The 3rd Separate Assault Brigade is a brigade of the Ukrainian Ground Forces formed in 2022. Originaly autonomus and part of Azov organisation (a right-wing ukrainian organisation), the brigade was integrated in the Special Operations Forces branch of Armed Forces of Ukraine in march 2022.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/3rd_Assault_Brigade_(Ukraine)"
+		],
+		"subreddit": [
+			"placeukraine",
+			"ukraine"
+		]
+	},
+	"path": {
+		"56-256": [
+			[
+				-331,
+				-164
+			],
+			[
+				-316,
+				-164
+			],
+			[
+				-315,
+				-163
+			],
+			[
+				-315,
+				-144
+			],
+			[
+				-316,
+				-144
+			],
+			[
+				-323,
+				-137
+			],
+			[
+				-330,
+				-144
+			],
+			[
+				-331,
+				-144
+			],
+			[
+				-331,
+				-160
+			]
+		]
+	},
+	"center": {
+		"56-256": [
+			-323,
+			-150
+		]
+	}
+}
